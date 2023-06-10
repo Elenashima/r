@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: LightCyan;
+}
+
+ a {
+     border-radius: 10px;
+     background-color: white;
+     padding: 3px;
+     border: 3px solid navy;
+     font-size: 20px;
+     color:indigo;	
+    text-decoration: none;
+    margin: 10px;
+}
+
+footer p {
+    font-size: 22px;
+}
+
+h2 {
+    color:midnightblue;
+    text-align:center;
+}
+
+.uwu {
+    color: midnightblue;
+}
